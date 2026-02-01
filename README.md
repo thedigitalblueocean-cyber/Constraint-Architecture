@@ -130,5 +130,16 @@ If you are looking to build or deploy systems, this repository defines the const
 
 ---
 
+## Audience
+
+This repository is intended for professionals whose work historically relied on interpretation, judgment, and discretionary enforcement—including compliance, audit, policy, legal, risk, and operations.
+
+As execution-time governance systems mature, these roles do not disappear. They transition into deliberative functions: designing constraints, defining admissible state spaces, and shaping how automated systems are allowed to act.
+
+This repository documents those emerging career models.
+
+---
+
 ## Repository Structure
+
 
